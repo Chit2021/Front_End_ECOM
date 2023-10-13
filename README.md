@@ -71,3 +71,4 @@ It correctly bundles React in production mode and optimizes the build for the be
   - can be modified (add cart item, update cart item quantity, delete cart item)
   - can be deleted
 
+site: https://splendid-custard-13f0c1.netlify.app
